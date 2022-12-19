@@ -1,28 +1,26 @@
-# Repositorio: Análisis de noticias de criptomonedas
+# Nube de palabras a partir de noticias 
 
-Este repositorio contiene un script de Python para realizar un análisis de noticias de criptomonedas.
+Este repositorio contiene un script de Python para realizar un análisis de noticias de criptomonedas generadas durante el años 2022.
+ 
+- [Nube de palabras a partir de noticias](#nube-de-palabras-a-partir-de-noticias)
+  - [Esquema](#esquema)
+  - [Prerequisitos](#prerequisitos)
+  - [Descripción del script](#descripción-del-script)
+  - [Resultados](#resultados)
+  - [Ejecución del script](#ejecución-del-script)
+  - [Autor](#autor)
+  - [Licencia](#licencia)
 
+## Esquema
+
+- Preparamos nuestro entorno de trabajo    
+- Descarga del modelo de    lenguaje español        
+- Importar librerías       
+- Scrapeo de noticias       
+- Procesamiento del texto con    spacy        
+- Análisis de frecuencia de palabras    
+- Generación de    nubes de palabras
   
-
-## Índice
-
-Preparamos nuestro entorno de trabajo
-
-Descarga del modelo de lenguaje español
-
-Importar librerías
-
-Scrapeo de noticias
-
-Procesamiento del texto con spacy
-
-Generación de nubes de palabras
-
-Análisis de frecuencia de palabras
-
-Gráficos
-
-
 ## Prerequisitos
 
 Para ejecutar este script es necesario tener instaladas las siguientes librerías:
